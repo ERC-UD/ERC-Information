@@ -3,8 +3,8 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 17.6.1//EN
 N:Coveler;Elliot;;;
 FN:Elliot Coveler
-EMAIL;type=INTERNET;type=pref:ecoveler@outlook.com
-EMAIL;type=INTERNET:ecoveler@icloud.com
+EMAIL;type=INTERNET;type=pref:ecoveler@udel.edu
+EMAIL;type=INTERNET:ecoveler@outlook.com
 TEL;type=pref:(832) 269-8289
 item1.ADR;type=pref:;;574 Louis Redding Hall\n306 Haines Street Building A ;Newark;DELAWARE;19717;United States
 item1.X-ABLabel:_$!<School>!$_
